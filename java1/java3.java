@@ -1,3 +1,4 @@
+// java1 섭씨온도를 화씨온도로 변환하는 코드
 package ex1;
 
 import java.util.Scanner;
