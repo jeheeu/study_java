@@ -1,4 +1,4 @@
-// java2 12주차, 1번째 파일, Student.java으로 정의하여 객체들 정의
+// java2 12주차, 1번째 파일, Student.java에 객체들이 가질 틀 정의
 // 학생정보를 나타내는 Student 클래스를 선언
 // Student 객체는 학생이름, 학번, 전화화번호를 가짐
 // toString()을 구현
